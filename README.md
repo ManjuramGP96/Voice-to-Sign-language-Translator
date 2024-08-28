@@ -50,6 +50,7 @@ To set up the Voice-to-Sign-Language Translator, follow these steps:
 
   **Run the main script:**
    ```bash
+      cd speechtosign
       chmod+ x run.sh
       ./run.sh
 
